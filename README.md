@@ -2,7 +2,7 @@
 - 👀 I’m interested in Datas
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me tabriznagiyev@yahoo.com
+- 📫 How to reach me naghiyevtabriz@gmail.com
 
 <!---
 Tabriz1/Tabriz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
